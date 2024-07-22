@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OseFred Clothing</title>
+    <link rel="icon" href="images/favicon.png" type="image/gif" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <body>
+        <header>
+            <div class="container">
+                <div class="logo">
+                    <a href="index2.html"><img src="logo.jpg" alt="Logo" width="189px"></a>
+                </div>
+                <nav class="navigation">
+                    <ul>
+                        <li><a href="index2.html">HOME</a></li>
+                        <li><a href="#">BRIDAL</a></li>
+                        <li><a href="#">CASUAL</a></li>
+                        <li><a href="#">NATIVE</a></li>
+                        <li><a href="ENQUIRY.html">MAKE AN ENQUIRY</a></li>
+                        <li><a href="contact.html">CONTACT</a></li>
+                    </ul>
+                </nav>
+                <div class="image-container">
+                    <div class="image-box">
+                        <img src="IMG_E2341.JPG" alt="Image 1">
+                    </div>
+                    <div class="image-box">
+                        <img src="IMG_E2344.JPG" alt="Image 2">
+                    </div>
+                    <div class="image-box">
+                        <img src="Bridal-desktop.jpg" alt="Image 2">
+                    </div>
+                    <div class="image-box">
+                        <img src="main.JPG" alt="Image 2">
+                    </div>
+                    <div class="image-box">
+                        <img src="main.JPG" alt="Image 2">
+                    </div>
+                    <div class="image-box">
+                        <img src="main.JPG" alt="Image 2">
+                    </div>
+                    <div class="image-box">
+                        <img src="main.JPG" alt="Image 2">
+                    </div>
+                    <div class="image-box">
+                        <img src="main.JPG" alt="Image 2">
+                    </div>
+                    <div class="image-box">
+                        <img src="main.JPG" alt="Image 2">
+                    </div>
+                    <div class="image-box">
+                        <img src="main.JPG" alt="Image 2">
+                    </div>
+                    <div class="image-box">
+                        <img src="main.JPG" alt="Image 2">
+                    </div>
+                </div>
+            </header>
